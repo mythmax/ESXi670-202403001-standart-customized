@@ -21,3 +21,6 @@ https://techdocs.broadcom.com/content/dam/broadcom/techdocs/us/en/pdf/vmware/vsp
 
 
 RTL 8125 2.5GBe vibs for use with ESXi 6.7 were sourced from https://github.com/mcr-ksh/r8125-esxi
+
+===
+I don't claim any authorship, I just share ready files for people.
